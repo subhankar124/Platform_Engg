@@ -1,4 +1,4 @@
-# Platform_Engg
+# Platform_Engg - SQL data warehouse geo Sync
 Currently SQL data warehouse does not have geo sync with less than 8 hours RPO, with this script you can maintain 15mins RPO
 
 
