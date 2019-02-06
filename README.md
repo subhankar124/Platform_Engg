@@ -28,8 +28,7 @@ Algo
               Restore in DR :
               Get the latest restorepoint
               Remove the DR DB
-              Restore from Restore point snapshot.
-              Set the pipeline slice on failure point. 
+              Restore from Restore point snapshot.             
 }
 
 Value Proposition  :
